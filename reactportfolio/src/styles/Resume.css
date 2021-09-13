@@ -1,0 +1,12 @@
+.resume {
+  background: #ffffff;
+  height: px;
+}
+
+.resume p {
+  color: rgb(0, 0, 0);
+  font-size: 1.3rem;
+  text-decoration: none;
+  margin: 20px;
+  line-height: 5;
+}

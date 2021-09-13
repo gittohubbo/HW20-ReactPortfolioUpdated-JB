@@ -1,0 +1,24 @@
+.work {
+  background: #ffffff;
+  height: 580px;
+}
+
+.work p {
+  color: rgb(0, 0, 0);
+  font-size: 1.3rem;
+  text-decoration: none;
+  margin: 10px;
+  line-height: 3px;
+}
+
+.img-container {
+  color: aqua;
+}
+
+.work h2 {
+  color: rgb(0, 0, 0);
+  font-size: 1.3rem;
+  text-decoration: none;
+  margin: 10px;
+  line-height: 3px;
+}
