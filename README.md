@@ -4,9 +4,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Table of Contents
 
-Homework Description
-Github Repository Link
-Heroku Deployed Application Link
+- Homework Description
+- Github Repository Link
+- Heroku Deployed Application Link
 
 ## Homework Description
 
